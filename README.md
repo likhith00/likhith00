@@ -28,7 +28,7 @@
 
 downstream task | finetuning approach | Dataset |Base Model | link to fine tuned model |link to the project| 
 ----------------|---------------------|---------|-----------|--------------------------|-------------------|
-Text classification | PEFT      | <a href = "https://huggingface.co/datasets/likhith231/enron_spam_small">likhith231/enron_spam_small</a>| roberta-base|<a href="https://huggingface.co/likhith231/roberta-base-lora-text-classification">likhith231/roberta-base-lora-text-classification</a>|<a href="https://github.com/likhith00/Text-Classification">Click Here</a> |
+Text classification | LoRA PEFT     | <a href = "https://huggingface.co/datasets/likhith231/enron_spam_small">likhith231/enron_spam_small</a>| roberta-base|<a href="https://huggingface.co/likhith231/roberta-base-lora-text-classification">likhith231/roberta-base-lora-text-classification</a>|<a href="https://github.com/likhith00/Text-Classification">Click Here</a> |
 -----
 <h3 align="left">My Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhith00&show_icons=true&locale=en&layout=compact" alt="likhith00" /></p>
