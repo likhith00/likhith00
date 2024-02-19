@@ -30,7 +30,7 @@ downstream task | Dataset |Base Model | link to fine tuned model |link to the pr
 ----------------|--------|-----------|--------------------------|-------------------|
 Text Classification | <a href = "https://huggingface.co/datasets/likhith231/enron_spam_small">likhith231/enron_spam_small</a>| roberta-base|<a href="https://huggingface.co/likhith231/roberta-base-lora-text-classification">likhith231/roberta-base-lora-text-classification</a>|<a href="https://github.com/likhith00/Text-Classification">Click Here</a> |
 Text Translation | <a href = "https://huggingface.co/datasets/likhith231/wmt_en_ro_7000">likhith231/wmt_en_ro_7000</a>| Helsinki-NLP/opus-mt-en-ro|<a href="https://huggingface.co/likhith231/opus-mt-en-ro-finetuned-en-to-ro">likhith231/opus-mt-en-ro-finetuned-en-to-ro</a>|<a href="https://github.com/likhith00/Text-Translation">Click Here</a>|
-Text Summarization | truncated version of Truncated version of <a href = "https://huggingface.co/datasets/samsum">samsum</a>|T5-small| <a href="https://huggingface.co/likhith231/T5-small-summarization">T5-small-summarization</a>|<a href="https://github.com/likhith00/Text-Summarization">Click Here</a>|
+Text Summarization | Truncated version of <a href = "https://huggingface.co/datasets/samsum">samsum</a>|T5-small| <a href="https://huggingface.co/likhith231/T5-small-summarization">T5-small-summarization</a>|<a href="https://github.com/likhith00/Text-Summarization">Click Here</a>|
 -----
 <h3 align="left">My Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhith00&show_icons=true&locale=en&layout=compact" alt="likhith00" /></p>
