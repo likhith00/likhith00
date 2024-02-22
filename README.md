@@ -34,6 +34,20 @@ Text Summarization | Truncated version of <a href = "https://huggingface.co/data
 Question Answering | Truncated version of <a href = "https://huggingface.co/datasets/squad">Squad</a>|distilbert-base-uncased| <a href="https://huggingface.co/likhith231/distilbert-base-uncased-finetuned-squad">likhith231/distilbert-base-uncased-finetuned-squad</a>|<a href="https://github.com/likhith00/Question-Answering">Click Here</a>|
 Text Generation | <a href = "https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k">mlabonne/guanaco-llama2-1k</a>|Llama-2-7b-chat-hf| <a href="https://huggingface.co/likhith231/llama-2-7b-miniguanaco">likhith231/llama-2-7b-miniguanaco</a>|<a href="https://github.com/likhith00/Text-Generation">Click Here</a>|
 -----
+
+### Parameter Efficient Finetuning
+
+|category| technique | downstream task |dataset | model | repository link|
+|--------|-----------|-----------------|--------|-------|----------------|
+| Prompt Based | Prompt Tuning| Text Classification | <a href="https://huggingface.co/datasets/ought/raft/viewer/twitter_complaints?row=4">RAFT/Twitter_complaints</a> |<a href="https://huggingface.co/bigscience/bloomz-560m">bigscience/bloomz-560m</a> | <a href="https://github.com/likhith00/Prompt_tuning">Click Here</a> |
+| Prompt Based | P Tuning | -| -  | -  |- |
+| Prompt Based | Prefix tuning| - | - | - |-  |
+| LoRA based | LoRA | - |-  |-  |- |
+| LoRA based | LoHa | -| -|- | - |
+| LoRA based | LoKr | -|- |- |- |
+| LoRA based | AdaLoRA| -| -|- | -|- |
+
+-----
 <h3 align="left">My Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhith00&show_icons=true&locale=en&layout=compact" alt="likhith00" /></p>
 
