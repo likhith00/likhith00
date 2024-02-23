@@ -40,7 +40,7 @@ Text Generation | <a href = "https://huggingface.co/datasets/mlabonne/guanaco-ll
 |category| technique | downstream task |dataset | model | repository link|
 |--------|-----------|-----------------|--------|-------|----------------|
 | Prompt Based | Prompt Tuning| Text Classification | <a href="https://huggingface.co/datasets/ought/raft/viewer/twitter_complaints?row=4">RAFT/Twitter_complaints</a> |<a href="https://huggingface.co/bigscience/bloomz-560m">bigscience/bloomz-560m</a> | <a href="https://github.com/likhith00/Prompt_tuning">Click Here</a> |
-| Prompt Based | P Tuning | -| -  | -  |- |
+| Prompt Based | P Tuning | Sequence classification | <a href="https://huggingface.co/datasets/glue/viewer/mrpc">GLUE/MRPC</a>  | <a href="https://huggingface.co/FacebookAI/roberta-large">RoBERTa-large</a>  |<a href="https://github.com/likhith00/P_Tuning">Click Here</a> |
 | Prompt Based | Prefix tuning| - | - | - |-  |
 | LoRA based | LoRA | - |-  |-  |- |
 | LoRA based | LoHa | -| -|- | - |
